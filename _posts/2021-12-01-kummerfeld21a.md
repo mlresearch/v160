@@ -1,7 +1,7 @@
 ---
 title: "Important Topics in Causal Analysis: Summary of the\r CAWS 2021 Round Table
   Discussion"
-abstract: This aritical summaries important topics in causal analysis brought up during
+abstract: This paper summaries important topics in causal analysis brought up during
   the round table discussion of CAWS 2021.
 layout: inproceedings
 series: Proceedings of Machine Learning Research
