@@ -1,5 +1,5 @@
 ---
-title: "Important Topics in Causal Analysis: Summary of the\r CAWS 2021 Round Table
+title: "Important Topics in Causal Analysis: Summary of the CAWS 2021 Round Table
   Discussion"
 abstract: This paper summaries important topics in causal analysis brought up during
   the round table discussion of CAWS 2021.
